@@ -10,14 +10,8 @@
 
 
 
-爬森藤的花
-
-! ( https://raw.githubusercontent.com/Governance22/Governance22.github.io/master/13.jpg )
-
-
-
-
-
+ 爬森藤的花
+ !(https://raw.githubusercontent.com/Governance22/-/master/parsonsiaalboflavescens.jpg)
 !(https://raw.githubusercontent.com/Governance22/Governance22.github.io/master/1%E5%A4%A7%E7%99%BD%E6%96%91%E8%9D%B6%E7%9A%84%E5%8D%B5.JPG)
 
 
