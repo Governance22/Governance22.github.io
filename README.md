@@ -6,10 +6,6 @@
 也成蟲的蜜源植物之一
 
 !爬森藤的花 
-( https://raw.githubusercontent.com/Governance22/Governance22.github.io/master/parsonsiaalboflavescens.jpg )
-
-
-
 
 
 
