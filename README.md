@@ -5,9 +5,7 @@
 
 也成蟲的蜜源植物之一
 
-!爬森藤的花 
-
-
+!爬森藤的花 (https://raw.githubusercontent.com/Governance22/Governance22.github.io/master/13.jpg)
 
 
 ##大白斑蝶幼蟲對爬森藤食草植物的專一性
