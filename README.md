@@ -31,7 +31,7 @@
 
 
 
-## 爬森藤 ( Parsonsia laevigata )
+## 爬森藤 ( Parsonsia alboflavescen )
 
 
 爬森藤花照片
