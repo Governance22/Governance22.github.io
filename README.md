@@ -21,10 +21,9 @@
 * 種 ： 大白斑蝶 Idea leuconoe
 
 
-爬森藤花照片
-![jpg](https://raw.githubusercontent.com/Governance22/Governance22.github.io/master/13.jpg)
+
+![爬森藤花照片](https://raw.githubusercontent.com/Governance22/Governance22.github.io/master/13.jpg)
  
  
  
- 幼蟲圖片
-![jpg](https://raw.githubusercontent.com/Governance22/Governance22.github.io/master/2mWaohC.jpg)
+![幼蟲圖片](https://raw.githubusercontent.com/Governance22/Governance22.github.io/master/2mWaohC.jpg)
