@@ -16,10 +16,9 @@
 
 * 科 ： 蛺蝶科 Nymphalidae
 
-* 屬 ： 帛斑蝶屬 Idea
+* 屬 ： 帛斑蝶屬 /Idea/
 
-* 種 ： 大白斑蝶 Idea leuconoe
-
+* 種 ： 大白斑蝶 /Idea leuconoe/
 
 爬森藤花照片
 ![jpg](https://raw.githubusercontent.com/Governance22/Governance22.github.io/master/13.jpg)
