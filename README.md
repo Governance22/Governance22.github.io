@@ -24,6 +24,8 @@
 
 * 種 ： 大白斑蝶 Idea leuconoe 
 
+### 形態特徵
+
 大白斑蝶幼蟲體表白色具黑色如斑馬條紋的圖案，並有數個粉紅色斑點排列於體表兩側。
 
 成蟲體積龐大，展翅可達120~140毫米，雌雄色彩斑紋近似，體翅白色，翅脈紋全部黑色，前後翅外緣在黑邊中有1列白斑，各脈室中均勻地散布著黑色大斑點。
@@ -33,14 +35,17 @@
 大白斑蝶幼蟲圖片
 ![jpg](https://raw.githubusercontent.com/Governance22/Governance22.github.io/master/2mWaohC.jpg)
 
-大白斑蝶成蟲照片
-
-![jpg](
+這一隻大白斑蝶成蟲剛羽化完，後方一個個金黃色帶有黑色斑點的蟲蛹，即為大白斑蝶的蛹
+![jpg](https://raw.githubusercontent.com/Governance22/Governance22.github.io/master/shop_image_theme2_16.jpg)
 
 
 
 
 ## 爬森藤 ( Parsonsia alboflavescen )
+
+### 爬森藤的分類位階
+
+
 
 
 爬森藤花照片
