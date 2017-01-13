@@ -31,20 +31,37 @@
 成蟲體積龐大，展翅可達120~140毫米，雌雄色彩斑紋近似，體翅白色，翅脈紋全部黑色，前後翅外緣在黑邊中有1列白斑，各脈室中均勻地散布著黑色大斑點。
 大白斑蝶常在空中乘氣流滑翔旋轉，且飛行緩慢，故又有別稱，叫做大笨蝶。
 
-
-大白斑蝶幼蟲圖片
 ![jpg](https://raw.githubusercontent.com/Governance22/Governance22.github.io/master/2mWaohC.jpg)
+大白斑蝶幼蟲圖片
 
-這一隻大白斑蝶成蟲剛羽化完，後方一個個金黃色帶有黑色斑點的蟲蛹，即為大白斑蝶的蛹
 ![jpg](https://raw.githubusercontent.com/Governance22/Governance22.github.io/master/shop_image_theme2_16.jpg)
-
+這一隻大白斑蝶成蟲剛羽化完，後方一個個金黃色帶有黑色斑點的蟲蛹，即為大白斑蝶的蛹
 
 
 
 ## 爬森藤 ( Parsonsia alboflavescen )
 
+
+
 ### 爬森藤的分類位階
 
+
+
+* 域 ： 真核域 Eukarya
+
+* 界 ： 植物界 Plantae
+
+* 門 ： 木蘭植物門 Magnoliophyta
+
+* 綱 ： 木蘭綱 Magnoliopsida 
+
+* 目 ： 龍膽目 Gentianales 
+
+* 科 ： 夾竹桃科 Apocynaceae 
+
+* 屬 ： 爬森籐屬 Parsonsia 
+
+* 種 ： 大白斑蝶 Idea leuconoe 
 
 
 
