@@ -32,22 +32,13 @@
 
 大白斑蝶幼蟲圖片
 
-
-
-
 ![jpg](https://raw.githubusercontent.com/Governance22/Governance22.github.io/master/shop_image_theme2_16.jpg)
 
 這一隻大白斑蝶成蟲剛羽化完，後方一個個金黃色帶有黑色斑點的蟲蛹，即為大白斑蝶的蛹
 
-
-
 ## 爬森藤 ( Parsonsia alboflavescen )
 
-
-
 ### 爬森藤的分類位階
-
-
 
 * 域 ： 真核域 Eukarya
 
@@ -74,7 +65,6 @@
 ![jpg](https://raw.githubusercontent.com/Governance22/Governance22.github.io/master/DSC07635%20(07).jpg)
 
 爬森藤的果莢圖
-
 
 ## 大白斑蝶生活史與爬森藤的互動關係
 
